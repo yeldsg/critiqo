@@ -94,4 +94,4 @@ Videos are embedded from their official YouTube channels. All titles, posters, a
 ## Author
 
 **Kathrina Marhiel Zamora** · BS Information Technology, Pampanga State University
-GitHub: [@yeldsg](https://github.com/yeldsg) · Portfolio: [yeldsg-portfolio.vercel.app](https://yeldsg-portfolio.vercel.app)
+GitHub: [@yeldsg](https://github.com/yeldsg) · Portfolio: [yeldsg-portfolio.vercel.app](https://yeldsg-portfolio.vercel.app) · LinkedIn: [linkedin.com/in/yeldsg](https://www.linkedin.com/in/yeldsg)
